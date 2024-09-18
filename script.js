@@ -5,6 +5,7 @@ function convertToRoman(num) {
         ['C', 100],
         ['L', 50],
         ['X', 10],
+		['IV',4],
         ['V', 5],
         ['I', 1]
     ];
